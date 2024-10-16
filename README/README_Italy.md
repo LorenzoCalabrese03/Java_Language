@@ -1,6 +1,6 @@
    <h1 id="italianVersion">Versione Italiana
          <p align="right">
-          <a href="./README_English.md/">
+          <a href="./README/README_English.md/">
                <img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="UK flag" height="30" width="30">
           </a>
       </p>
