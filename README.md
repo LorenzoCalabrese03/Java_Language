@@ -88,11 +88,11 @@
         <li>Naviga nella cartella dell'esercizio che desideri eseguire:</li>
         <pre><code>cd Esercizio1</code></pre>
         <li>Apri il progetto in Eclipse:</li>
-        <li>RAccomando di usare Github dekstop, per tenere traccia delle attività</li>
         <ul>
             <li>Avvia Eclipse.</li>
             <li>Seleziona "File" &gt; "Importa".</li>
             <li>Scegli "Progetti esistenti nel workspace" e seleziona la cartella del progetto.</li>
+            <li>Raccomando di usare Github dekstop, per tenere traccia delle attività</li>
         </ul>
         <li>Compila ed esegui il codice Java in Eclipse.</li>
     </ol>
