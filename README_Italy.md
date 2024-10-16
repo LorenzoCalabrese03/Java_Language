@@ -1,4 +1,9 @@
    <h1 id="italianVersion">Versione Italiana</h1>
+   <p>
+       <a href="./README_English.md">
+          🇬🇧:
+       </a>
+   </p>
     <h1>Esercizi Java Università</h1>
     <p>Benvenuto nella mia repository dedicata agli esercizi di programmazione in Java, realizzati durante il mio percorso universitario. Qui troverai una collezione di progetti e esercizi che coprono vari argomenti, concetti e tecniche di programmazione in Java.</p>
     <h2>Contenuti</h2>
