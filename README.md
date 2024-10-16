@@ -8,7 +8,6 @@
     <h1 id="englishVersion">English Version </h1>
     <h1>Java University Exercises</h1>
     <p>Welcome to my repository dedicated to Java programming exercises completed during my university studies. Here, you will find a collection of projects and exercises that cover various topics, concepts, and techniques in Java.</p>
-<h2>Switch Language</h2>
     <p><a href="#italianVersion">Versione Italiana</a></p>
     <h2>Contents</h2>
     <p>The repository includes exercises related to:</p>
