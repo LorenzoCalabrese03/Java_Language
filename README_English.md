@@ -8,7 +8,10 @@
     <h1 id="englishVersion">English Version </h1>
     <h1>Java University Exercises</h1>
     <p>Welcome to my repository dedicated to Java programming exercises completed during my university studies. Here, you will find a collection of projects and exercises that cover various topics, concepts, and techniques in Java.</p>
-    <p><a href="#italianVersion">Versione Italiana</a></p>
+     <p>
+         <a href="./README_Italy.md">
+             <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F62-627341_italian-flag-icon-png-flag-of-italy-circle.png&f=1&nofb=1&ipt=ad25eb8286d42fb20bbb70ee1355dd7f99d32b19acc932eb57d7d437ff3ddadb&ipo=images" alt="Bandiera Italiana" height="30" width="30" ></a>
+     </p>
     <h2>Contents</h2>
     <p>The repository includes exercises related to:</p>
     <ul>
@@ -55,5 +58,6 @@
     <h2>License</h2>
     <p>This project is distributed under the MIT License. See the LICENSE file for more details.</p>
     <p>Thank you for visiting!</p>
+   
 </body>
 </html>
