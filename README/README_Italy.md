@@ -53,5 +53,5 @@
     <p>Se desideri contribuire a questa repository, sentiti libero di aprire una Pull Request o segnalare eventuali problemi.</p>
     <h2>Licenza</h2>
     <p>Questo progetto è distribuito sotto la licenza MIT. Vedi il file LICENSE per ulteriori dettagli.</p>
-    <a href="./README.md/" >⬅️</a>
+    <a href="../README.md/" >⬅️</a>
     
