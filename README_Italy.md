@@ -1,6 +1,6 @@
    <h1 id="italianVersion">Versione Italiana
-      <p align="right">
-          <a href="./README_English.md">
+         <p align="right">
+          <a href="./README_English.md/">
                <img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="UK flag" height="30" width="30">
           </a>
       </p>
@@ -53,4 +53,5 @@
     <p>Se desideri contribuire a questa repository, sentiti libero di aprire una Pull Request o segnalare eventuali problemi.</p>
     <h2>Licenza</h2>
     <p>Questo progetto è distribuito sotto la licenza MIT. Vedi il file LICENSE per ulteriori dettagli.</p>
-    <p><a href="./README_English.md">English Version</a></p>
+    <a href="./README.md/" >⬅️</a>
+    
