@@ -60,6 +60,6 @@
     <h2>License</h2>
     <p>This project is distributed under the MIT License. See the LICENSE file for more details.</p>
     <p>Thank you for visiting!</p>
-    <a href="../Java_Programs/" >⬅️</a>
+    <a href="../" >⬅️</a>
 </body>
 </html>
