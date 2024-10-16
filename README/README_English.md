@@ -60,6 +60,6 @@
     <h2>License</h2>
     <p>This project is distributed under the MIT License. See the LICENSE file for more details.</p>
     <p>Thank you for visiting!</p>
-    <a href="./README.md/" >⬅️</a>
+    <a href="../README.md/" >⬅️</a>
 </body>
 </html>
