@@ -17,7 +17,9 @@
         <li>File</li>
         <li>Practical exercises with libraries</li>
     </ul>
-    <p>Each folder contains a specific exercise along with its description and source code.</p>
+    <p>Each folder contains a specific exercise along with its description and source code.<p>
+    <h2>IDE</h2>
+    <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
     <h2>Repository Structure</h2>
     <pre>
 ├── Exercise1/
@@ -66,6 +68,8 @@
         <li>Esercizi pratici con framework e librerie</li>
     </ul>
     <p>Ogni cartella contiene un esercizio specifico insieme alla sua descrizione e al codice sorgente.</p>
+    <h2>IDE</h2>
+    <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
     <h2>Struttura della Repository</h2>
     <pre>.
 ├── Esercizio1/
