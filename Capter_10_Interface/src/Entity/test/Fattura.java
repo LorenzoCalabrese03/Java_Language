@@ -1,5 +1,10 @@
 package Entity.test;
 
+/**
+ * La classe Fattura rappresenta una fattura di una lista di prodotti.
+ * Offre metodi per calcolare l'importo totale degli elementi presenti nel negozio.
+ * @author Lorenzo Calabrese
+ */
 public class Fattura implements Pagamento {
 
     private int numArticoli;

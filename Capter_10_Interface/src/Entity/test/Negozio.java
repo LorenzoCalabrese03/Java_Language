@@ -5,6 +5,7 @@ import java.util.ArrayList;
 /**
  * La classe Negozio rappresenta un negozio che gestisce una lista di prodotti e fatture.
  * Offre metodi per aggiungere prodotti e fatture, calcolare i pagamenti totali, e ottenere informazioni sui prodotti.
+ *@author Lorenzo Calabrese
  */
 public class Negozio {
 

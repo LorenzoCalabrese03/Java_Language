@@ -1,5 +1,9 @@
 package Entity.test;
-
+/**
+ * La classe Prodotto rappresenta un prodotto generico.
+ * Offre metodi per calcolare l'importo del prodotto per la funzione di Pagamento
+ * @author Lorenzo Calabrese
+ *  */
 public abstract class Prodotto implements Pagamento {
     private final String codice;
     protected double prezzoIniziale;
@@ -18,7 +22,7 @@ public abstract class Prodotto implements Pagamento {
         this.codice = codice;
 
         // Inizializzazione del prezzo iniziale
-        if (prezzoIniziale < 0) {
+        if (prezzoIniziale < Requisito.PREZZOMINIMO) {
             throw new IllegalArgumentException("Il prezzo iniziale non può essere negativo.");
         }
         this.prezzoIniziale = prezzoIniziale;

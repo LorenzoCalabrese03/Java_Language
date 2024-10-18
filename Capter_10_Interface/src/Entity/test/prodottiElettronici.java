@@ -1,5 +1,9 @@
 package Entity.test;
-
+/**
+ * é la sotto-classe di Prodotto e rappresenta un prodotto elettronico.
+ * Offre metodi per calcolare l'importo del prodotto in base alla sua garanzia.
+ * @author Lorenzo Calabrese 
+ *  */
 public class prodottiElettronici extends Prodotto {
     private int garanzia;
 
@@ -14,7 +18,7 @@ public class prodottiElettronici extends Prodotto {
         super(codice, prezzoIniziale);
         
         // Imposta la garanzia garantendo che sia tra 2 e 24 mesi
-        this.garanzia = Math.max(2, Math.min(garanzia, 24));
+        this.garanzia = Math.max(Requisito.MINTEMPGARANZIA, Math.min(garanzia, Requisito.MAXTEMPGARANZIA));
     }
 
     /**
@@ -33,7 +37,7 @@ public class prodottiElettronici extends Prodotto {
      */
     public void setGaranzia(int garanzia) {
         // Imposta la garanzia solo se il valore è tra 2 e 24 mesi
-        this.garanzia = Math.max(2, Math.min(garanzia, 24));
+        this.garanzia = Math.max(Requisito.MINTEMPGARANZIA, Math.min(garanzia, Requisito.MAXTEMPGARANZIA));
     }
 
     /**
@@ -47,8 +51,8 @@ public class prodottiElettronici extends Prodotto {
         double costo = super.getPrezzoIniziale();
         
         // Aumenta il costo del 10% se la garanzia è di 12 mesi o superiore
-        if (garanzia >= 12) {
-            costo += super.getPrezzoIniziale() * 0.1;
+        if (garanzia >= Requisito.SOGLIASOVRAPREZZO) {
+            costo += super.getPrezzoIniziale() * Requisito.SOVRAPREZZO;
         }
         return costo;
     }
@@ -62,7 +66,7 @@ public class prodottiElettronici extends Prodotto {
     public String toString() {
         return String.format(
             "Prodotto Elettronico:\nCodice: %s\nPrezzo Iniziale: %.2f\nCosto Calcolato: %.2f\nGaranzia: %d mesi",
-            getCodice(), getPrezzoIniziale(), calcolaCosto(), garanzia
+            getCodice(), getPrezzoIniziale(), calcolaCosto(), getGaranzia()
         );
     }
 }

@@ -1,5 +1,9 @@
 package Entity.test;
-
+/**
+ * é la sotto-classe di Prodotto e rappresenta un prodotto alimentare.
+ * Offre metodi per calcolare l'importo del prodotto in base alla scadenza.
+ * @author Lorenzo Calabrese
+ *  */
 public class prodottoAlimentare extends Prodotto {
     
     private String principioNutritivo;
@@ -23,7 +27,7 @@ public class prodottoAlimentare extends Prodotto {
         this.principioNutritivo = principioNutritivo;
         
         // Validazione e assegnazione del tempo di conservazione
-        this.tempoConservazione = Math.max(1, tempoConservazione);
+        this.tempoConservazione = Math.max(Requisito.MINTEMPCONSERVA, tempoConservazione);
     }
 
     /**
