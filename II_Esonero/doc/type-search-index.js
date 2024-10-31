@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"esonero2.catalogo","l":"Abitazioni"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"esonero2.catalogo","l":"Catalogo"},{"p":"esonero2.test","l":"CatalogoTest"},{"p":"esonero2.catalogo","l":"Errore"},{"p":"esonero2.catalogo","l":"Ville"}];updateSearchResults();
