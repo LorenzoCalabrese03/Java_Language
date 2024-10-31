@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Esonero.store","l":"Errore"},{"p":"Esonero.store","l":"MagazzinoProdotti"},{"p":"Esonero.store","l":"MagazzinoProdottiAlimentari"},{"p":"Esonero.test","l":"MagazzinoTest"},{"p":"Esonero.store","l":"Prodotto"},{"p":"Esonero.store","l":"ProdottoAlimentare"}];updateSearchResults();
