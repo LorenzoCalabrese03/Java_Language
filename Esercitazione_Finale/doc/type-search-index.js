@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Entity","l":"Appartamento"},{"p":"Entity","l":"Catalogo"},{"p":"Entity.test","l":"CatalogoTest"},{"p":"Entity","l":"Errore"},{"p":"Entity","l":"Immobile"},{"p":"Entity","l":"SearchByCost"},{"p":"File","l":"Serializzazione"},{"p":"Entity","l":"Villa"}];updateSearchResults();
