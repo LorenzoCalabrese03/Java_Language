@@ -9,7 +9,11 @@ import java.util.List;
 import Entity.Immobile;
 
 public class Serializzazione {
-
+//IMPORTANTE
+    //DEVI METTERE AD OGNI CLASSE CHE SALVI implements Serializable ALTRIMENTI NON TE LO SALVA NEI FILE
+    //es public static void Immobile implements Serializable{ 
+    //  }
+//IMPORTANTE
     /**
      * Carica una lista di oggetti Abitazione da un file binario tramite deserializzazione.
      *
