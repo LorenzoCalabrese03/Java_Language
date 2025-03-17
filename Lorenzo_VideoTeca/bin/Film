@@ -1,0 +1,49 @@
+Film [titolo=titolo1, regista=autore1, codice=codice1, annoUscita=1896 Genere: Drammatico] Tecnica: Stop_Motion
+Film [titolo=titolo2, regista=autore2, codice=codice2, annoUscita=1897 Genere: Drammatico] Tecnica: Stop_Motion
+Film [titolo=titolo3, regista=autore3, codice=codice3, annoUscita=1898 Genere: Drammatico]
+Film [titolo=titolo4, regista=autore4, codice=codice4, annoUscita=1899 Genere: Azione]
+Film [titolo=titolo5, regista=autore5, codice=codice5, annoUscita=1900 Genere: Azione] Tecnica: dueD
+Film [titolo=titolo6, regista=autore6, codice=codice6, annoUscita=1901 Genere: Fantaasy]
+Film [titolo=titolo7, regista=autore7, codice=codice7, annoUscita=1902 Genere: Animazione]
+Film [titolo=titolo8, regista=autore8, codice=codice8, annoUscita=1903 Genere: Animazione] Tecnica: treD
+Film [titolo=titolo9, regista=autore9, codice=codice9, annoUscita=1904 Genere: Fantaasy]
+Film [titolo=titolo10, regista=autore10, codice=codice10, annoUscita=1905 Genere: Drammatico] Tecnica: treD
+Film [titolo=titolo11, regista=autore11, codice=codice11, annoUscita=1906 Genere: Fantaasy] Tecnica: dueD
+Film [titolo=titolo12, regista=autore12, codice=codice12, annoUscita=1907 Genere: Drammatico]
+Film [titolo=titolo13, regista=autore13, codice=codice13, annoUscita=1908 Genere: Fantaasy]
+Film [titolo=titolo14, regista=autore14, codice=codice14, annoUscita=1909 Genere: Fantaasy] Tecnica: dueD
+Film [titolo=titolo15, regista=autore15, codice=codice15, annoUscita=1910 Genere: Drammatico] Tecnica: treD
+Film [titolo=titolo16, regista=autore16, codice=codice16, annoUscita=1911 Genere: Azione] Tecnica: Stop_Motion
+Film [titolo=titolo17, regista=autore17, codice=codice17, annoUscita=1912 Genere: Animazione]
+Film [titolo=titolo18, regista=autore18, codice=codice18, annoUscita=1913 Genere: Animazione] Tecnica: Stop_Motion
+Film [titolo=titolo19, regista=autore19, codice=codice19, annoUscita=1914 Genere: Drammatico]
+Film [titolo=titolo20, regista=autore20, codice=codice20, annoUscita=1915 Genere: Fantaasy] Tecnica: treD
+Film [titolo=titolo21, regista=autore21, codice=codice21, annoUscita=1916 Genere: Commendia] Tecnica: dueD
+Film [titolo=titolo22, regista=autore22, codice=codice22, annoUscita=1917 Genere: Animazione]
+Film [titolo=titolo23, regista=autore23, codice=codice23, annoUscita=1918 Genere: Commendia]
+Film [titolo=titolo24, regista=autore24, codice=codice24, annoUscita=1919 Genere: Commendia]
+Film [titolo=titolo25, regista=autore25, codice=codice25, annoUscita=1920 Genere: Fantaasy]
+Film [titolo=titolo26, regista=autore26, codice=codice26, annoUscita=1921 Genere: Animazione] Tecnica: treD
+Film [titolo=titolo27, regista=autore27, codice=codice27, annoUscita=1922 Genere: Fantaasy]
+Film [titolo=titolo28, regista=autore28, codice=codice28, annoUscita=1923 Genere: Animazione] Tecnica: dueD
+Film [titolo=titolo29, regista=autore29, codice=codice29, annoUscita=1924 Genere: Commendia]
+Film [titolo=titolo30, regista=autore30, codice=codice30, annoUscita=1925 Genere: Azione]
+Film [titolo=titolo31, regista=autore31, codice=codice31, annoUscita=1926 Genere: Azione]
+Film [titolo=titolo32, regista=autore32, codice=codice32, annoUscita=1927 Genere: Commendia] Tecnica: treD
+Film [titolo=titolo33, regista=autore33, codice=codice33, annoUscita=1928 Genere: Azione] Tecnica: treD
+Film [titolo=titolo34, regista=autore34, codice=codice34, annoUscita=1929 Genere: Azione]
+Film [titolo=titolo35, regista=autore35, codice=codice35, annoUscita=1930 Genere: Drammatico]
+Film [titolo=titolo36, regista=autore36, codice=codice36, annoUscita=1931 Genere: Drammatico]
+Film [titolo=titolo37, regista=autore37, codice=codice37, annoUscita=1932 Genere: Azione] Tecnica: Stop_Motion
+Film [titolo=titolo38, regista=autore38, codice=codice38, annoUscita=1933 Genere: Azione] Tecnica: treD
+Film [titolo=titolo39, regista=autore39, codice=codice39, annoUscita=1934 Genere: Commendia] Tecnica: Stop_Motion
+Film [titolo=titolo40, regista=autore40, codice=codice40, annoUscita=1935 Genere: Fantaasy]
+Film [titolo=titolo41, regista=autore41, codice=codice41, annoUscita=1936 Genere: Drammatico]
+Film [titolo=titolo42, regista=autore42, codice=codice42, annoUscita=1937 Genere: Fantaasy] Tecnica: treD
+Film [titolo=titolo43, regista=autore43, codice=codice43, annoUscita=1938 Genere: Drammatico]
+Film [titolo=titolo44, regista=autore44, codice=codice44, annoUscita=1939 Genere: Commendia]
+Film [titolo=titolo45, regista=autore45, codice=codice45, annoUscita=1940 Genere: Commendia]
+Film [titolo=titolo46, regista=autore46, codice=codice46, annoUscita=1941 Genere: Commendia]
+Film [titolo=titolo47, regista=autore47, codice=codice47, annoUscita=1942 Genere: Azione]
+Film [titolo=titolo48, regista=autore48, codice=codice48, annoUscita=1943 Genere: Drammatico]
+Film [titolo=titolo49, regista=autore49, codice=codice49, annoUscita=1944 Genere: Drammatico]

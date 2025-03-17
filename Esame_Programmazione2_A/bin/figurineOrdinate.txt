@@ -1,0 +1,36 @@
+Figurina [materiale=Plastica, numeroFigurina=60] Sport:Sci
+Figurina [materiale=Carta, numeroFigurina=59]
+Figurina [materiale=Carta, numeroFigurina=58]
+Figurina [materiale=Plastica, numeroFigurina=57] Sport:Sci
+Figurina [materiale=Carta, numeroFigurina=56]
+Figurina [materiale=Plastica, numeroFigurina=55]
+Figurina [materiale=CartaAdesiva, numeroFigurina=54] Sport:Nuoto
+Figurina [materiale=Carta, numeroFigurina=53]
+Figurina [materiale=CartaAdesiva, numeroFigurina=52] Sport:Nuoto
+Figurina [materiale=Carta, numeroFigurina=51]
+Figurina [materiale=Carta, numeroFigurina=50]
+Figurina [materiale=Plastica, numeroFigurina=49] Sport:Sci
+Figurina [materiale=CartaAdesiva, numeroFigurina=48] Sport:Nuoto
+Figurina [materiale=CartaAdesiva, numeroFigurina=47] Sport:Nuoto
+Figurina [materiale=Plastica, numeroFigurina=46] Sport:Sci
+Figurina [materiale=Plastica, numeroFigurina=45] Sport:Sci
+Figurina [materiale=Carta, numeroFigurina=44] Sport:Calcio
+Figurina [materiale=Plastica, numeroFigurina=43]
+Figurina [materiale=Carta, numeroFigurina=42]
+Figurina [materiale=Plastica, numeroFigurina=41]
+Figurina [materiale=Carta, numeroFigurina=40]
+Figurina [materiale=Carta, numeroFigurina=39]
+Figurina [materiale=Plastica, numeroFigurina=38] Sport:Sci
+Figurina [materiale=CartaAdesiva, numeroFigurina=37]
+Figurina [materiale=Carta, numeroFigurina=36] Sport:Calcio
+Figurina [materiale=CartaAdesiva, numeroFigurina=35]
+Figurina [materiale=Plastica, numeroFigurina=34] Sport:Sci
+Figurina [materiale=CartaAdesiva, numeroFigurina=33]
+Figurina [materiale=Plastica, numeroFigurina=32]
+Figurina [materiale=Plastica, numeroFigurina=31] Sport:Sci
+Figurina [materiale=Plastica, numeroFigurina=30] Sport:Sci
+Figurina [materiale=Carta, numeroFigurina=29] Sport:Calcio
+Figurina [materiale=Plastica, numeroFigurina=28]
+Figurina [materiale=Plastica, numeroFigurina=27] Sport:Sci
+Figurina [materiale=Carta, numeroFigurina=26]
+Figurina [materiale=Carta, numeroFigurina=25] Sport:Calcio
