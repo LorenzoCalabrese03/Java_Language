@@ -1,0 +1,2 @@
+Libro [titolo=SDA] 12
+Libro [titolo=Harry Potter] 15

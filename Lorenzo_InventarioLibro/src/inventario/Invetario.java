@@ -54,5 +54,7 @@ public class Invetario {
 	private void ordinamento() {
 		invetario.entrySet().stream().sorted(Comparator.comparing(entry -> entry.getKey().getTitolo())); // Ordina per titolo del libro
 	}
-	
+	public Map<Libro,Integer> getMappa(){
+		return invetario;
+	}
 }
