@@ -20,7 +20,7 @@ public class Main {
 		tipi.add(TipoOpera.Fotografia);
 		tipi.add(TipoOpera.Installazione);
 		tipi.add(TipoOpera.Sculutra);
-
+		
 		List<Materiale> materiali = new ArrayList<Materiale>();
 		materiali.add(Materiale.Argilla);
 		materiali.add(Materiale.Bronzo);
@@ -51,6 +51,8 @@ public class Main {
 		}
 		
 		TestDue.salvataggioOpera(listaOpere, "/home/lorenzocalabrese/eclipse-workspace/Lorenzo_Museo/src/Opere");
+		System.out.println("Lettura file");
+		TestDue.letturaOpere("/home/lorenzocalabrese/eclipse-workspace/Lorenzo_Museo/src/Opere");
 	}
-
+		
 }

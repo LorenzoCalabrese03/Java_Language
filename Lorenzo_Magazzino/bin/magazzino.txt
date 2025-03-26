@@ -1,0 +1,9 @@
+Prodotto [codice=Nome: 1, nome=Codice:1, prezzo=1.0, dataScadenza=22/03/2025 18:32:02, tipo=Alimentare] Categoria:Secco
+Prodotto [codice=Codice:2, nome=Nome: 2, prezzo=2.0, dataScadenza=22/03/2025 18:32:02, tipo=Elettronico] Garanzia: 13
+Prodotto [codice=Codice:3, nome=Nome: 3, prezzo=3.0, dataScadenza=22/03/2025 18:32:02, tipo=Elettronico] Garanzia: 6
+Prodotto [codice=Nome: 4, nome=Codice:4, prezzo=4.0, dataScadenza=22/03/2025 18:32:02, tipo=Alimentare] Categoria:Fresco
+Prodotto [codice=Codice:5, nome=Nome: 5, prezzo=5.0, dataScadenza=22/03/2025 18:32:02, tipo=Elettronico] Garanzia: 8
+Prodotto [codice=Codice:6, nome=Nome: 6, prezzo=6.0, dataScadenza=22/03/2025 18:32:02, tipo=Elettronico] Garanzia: 16
+Prodotto [codice=Nome: 7, nome=Codice:7, prezzo=7.0, dataScadenza=22/03/2025 18:32:02, tipo=Alimentare] Categoria:Secco
+Prodotto [codice=Codice:8, nome=Nome: 8, prezzo=8.0, dataScadenza=22/03/2025 18:32:02, tipo=Elettronico] Garanzia: 18
+Prodotto [codice=Nome: 9, nome=Codice:9, prezzo=9.0, dataScadenza=22/03/2025 18:32:02, tipo=Alimentare] Categoria:Secco
