@@ -23,4 +23,18 @@
 //	public static void OrdinamentoStudenti(Map<String,Integer>mappa) {
 //		mappa.entrySet().stream().sorted((Map.Entry.comparingByValue())).forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));;
 //	}
+
+// Ricerca di un libro in base al suo titolo
+//
+//public boolean removeLibro(String titolo) {
+//		Libro libro=invetario.keySet().stream().filter(l->l.getTitolo().equals(titolo)).findFirst().orElse(null);
+//		if(libro==null) {
+//			return false;
+//		}else {
+//			invetario.remove(libro);
+//			return true;
+//		}
+//		
+//	
+//	}
 //}
