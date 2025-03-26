@@ -3,38 +3,38 @@
 //import java.util.HashMap;
 //import java.util.Map;
 //
-//public class FunzioniMappe {
+public class FunzioniMappe {
 //	
-//	public static void conteggioOccorrenze(String frase) {
-//		String[] parole = frase.split(" ");//divide la frase in parole
-//		Map<String,Integer>paroleConteggio= new HashMap<String,Integer>();
-//		for(String entry:parole) {
-//			entry = entry.toLowerCase();
-//			paroleConteggio.put(entry, paroleConteggio.getOrDefault(entry, 0)+1);//conta le occorrenze
-//		}
-//		paroleConteggio.entrySet().forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));
-//	}
-//	
-//	public static void OrdinamentoStringa(Map<Integer,String>mappa) {
-//		mappa.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));
+	public static void conteggioOccorrenze(String frase) {
+		String[] parole = frase.split(" ");//divide la frase in parole
+		Map<String,Integer>paroleConteggio= new HashMap<String,Integer>();
+		for(String entry:parole) {
+			entry = entry.toLowerCase();
+			paroleConteggio.put(entry, paroleConteggio.getOrDefault(entry, 0)+1);//conta le occorrenze
+		}
+		paroleConteggio.entrySet().forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));
+	}
+	
+	public static void OrdinamentoStringa(Map<Integer,String>mappa) {
+		mappa.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));
 //		
-//	}
+	}
 //	
-//	public static void OrdinamentoStudenti(Map<String,Integer>mappa) {
-//		mappa.entrySet().stream().sorted((Map.Entry.comparingByValue())).forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));;
-//	}
+	public static void OrdinamentoStudenti(Map<String,Integer>mappa) {
+		mappa.entrySet().stream().sorted((Map.Entry.comparingByValue())).forEach(entry->System.out.println(entry.getKey()+" "+entry.getValue()));;
+	}
 
 // Ricerca di un libro in base al suo titolo
 //
-//public boolean removeLibro(String titolo) {
-//		Libro libro=invetario.keySet().stream().filter(l->l.getTitolo().equals(titolo)).findFirst().orElse(null);
-//		if(libro==null) {
-//			return false;
-//		}else {
-//			invetario.remove(libro);
-//			return true;
-//		}
+public boolean removeLibro(String titolo) {
+		Libro libro=invetario.keySet().stream().filter(l->l.getTitolo().equals(titolo)).findFirst().orElse(null);
+		if(libro==null) {
+			return false;
+		}else {
+			invetario.remove(libro);
+			return true;
+		}
 //		
 //	
-//	}
-//}
+	}
+}
