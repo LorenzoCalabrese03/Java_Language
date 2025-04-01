@@ -1,0 +1,49 @@
+Chiave: Codice: 1 Valore:ElementoMultimediale [codice=Codice: 1, titolo=Titolo: 1, durata=1, tipo=Audio]Bitrate: 1
+Chiave: Codice: 10 Valore:ElementoMultimediale [codice=Codice: 10, titolo=Titolo: 10, durata=10, tipo=Video]Risoluzione: Risoluzione: 10
+Chiave: Codice: 11 Valore:ElementoMultimediale [codice=Codice: 11, titolo=Titolo: 11, durata=11, tipo=Audio]Bitrate: 11
+Chiave: Codice: 12 Valore:ElementoMultimediale [codice=Codice: 12, titolo=Titolo: 12, durata=12, tipo=Video]Risoluzione: Risoluzione: 12
+Chiave: Codice: 13 Valore:ElementoMultimediale [codice=Codice: 13, titolo=Titolo: 13, durata=13, tipo=Audio]Bitrate: 13
+Chiave: Codice: 14 Valore:ElementoMultimediale [codice=Codice: 14, titolo=Titolo: 14, durata=14, tipo=Video]Risoluzione: Risoluzione: 14
+Chiave: Codice: 15 Valore:ElementoMultimediale [codice=Codice: 15, titolo=Titolo: 15, durata=15, tipo=Audio]Bitrate: 15
+Chiave: Codice: 16 Valore:ElementoMultimediale [codice=Codice: 16, titolo=Titolo: 16, durata=16, tipo=Video]Risoluzione: Risoluzione: 16
+Chiave: Codice: 17 Valore:ElementoMultimediale [codice=Codice: 17, titolo=Titolo: 17, durata=17, tipo=Audio]Bitrate: 17
+Chiave: Codice: 18 Valore:ElementoMultimediale [codice=Codice: 18, titolo=Titolo: 18, durata=18, tipo=Audio]Bitrate: 18
+Chiave: Codice: 19 Valore:ElementoMultimediale [codice=Codice: 19, titolo=Titolo: 19, durata=19, tipo=Audio]Bitrate: 19
+Chiave: Codice: 2 Valore:ElementoMultimediale [codice=Codice: 2, titolo=Titolo: 2, durata=2, tipo=Audio]Bitrate: 2
+Chiave: Codice: 20 Valore:ElementoMultimediale [codice=Codice: 20, titolo=Titolo: 20, durata=20, tipo=Audio]Bitrate: 20
+Chiave: Codice: 21 Valore:ElementoMultimediale [codice=Codice: 21, titolo=Titolo: 21, durata=21, tipo=Audio]Bitrate: 21
+Chiave: Codice: 22 Valore:ElementoMultimediale [codice=Codice: 22, titolo=Titolo: 22, durata=22, tipo=Audio]Bitrate: 22
+Chiave: Codice: 23 Valore:ElementoMultimediale [codice=Codice: 23, titolo=Titolo: 23, durata=23, tipo=Video]Risoluzione: Risoluzione: 23
+Chiave: Codice: 24 Valore:ElementoMultimediale [codice=Codice: 24, titolo=Titolo: 24, durata=24, tipo=Video]Risoluzione: Risoluzione: 24
+Chiave: Codice: 25 Valore:ElementoMultimediale [codice=Codice: 25, titolo=Titolo: 25, durata=25, tipo=Audio]Bitrate: 25
+Chiave: Codice: 26 Valore:ElementoMultimediale [codice=Codice: 26, titolo=Titolo: 26, durata=26, tipo=Audio]Bitrate: 26
+Chiave: Codice: 27 Valore:ElementoMultimediale [codice=Codice: 27, titolo=Titolo: 27, durata=27, tipo=Audio]Bitrate: 27
+Chiave: Codice: 28 Valore:ElementoMultimediale [codice=Codice: 28, titolo=Titolo: 28, durata=28, tipo=Video]Risoluzione: Risoluzione: 28
+Chiave: Codice: 29 Valore:ElementoMultimediale [codice=Codice: 29, titolo=Titolo: 29, durata=29, tipo=Video]Risoluzione: Risoluzione: 29
+Chiave: Codice: 3 Valore:ElementoMultimediale [codice=Codice: 3, titolo=Titolo: 3, durata=3, tipo=Video]Risoluzione: Risoluzione: 3
+Chiave: Codice: 30 Valore:ElementoMultimediale [codice=Codice: 30, titolo=Titolo: 30, durata=30, tipo=Video]Risoluzione: Risoluzione: 30
+Chiave: Codice: 31 Valore:ElementoMultimediale [codice=Codice: 31, titolo=Titolo: 31, durata=31, tipo=Audio]Bitrate: 31
+Chiave: Codice: 32 Valore:ElementoMultimediale [codice=Codice: 32, titolo=Titolo: 32, durata=32, tipo=Video]Risoluzione: Risoluzione: 32
+Chiave: Codice: 33 Valore:ElementoMultimediale [codice=Codice: 33, titolo=Titolo: 33, durata=33, tipo=Video]Risoluzione: Risoluzione: 33
+Chiave: Codice: 34 Valore:ElementoMultimediale [codice=Codice: 34, titolo=Titolo: 34, durata=34, tipo=Audio]Bitrate: 34
+Chiave: Codice: 35 Valore:ElementoMultimediale [codice=Codice: 35, titolo=Titolo: 35, durata=35, tipo=Video]Risoluzione: Risoluzione: 35
+Chiave: Codice: 36 Valore:ElementoMultimediale [codice=Codice: 36, titolo=Titolo: 36, durata=36, tipo=Audio]Bitrate: 36
+Chiave: Codice: 37 Valore:ElementoMultimediale [codice=Codice: 37, titolo=Titolo: 37, durata=37, tipo=Video]Risoluzione: Risoluzione: 37
+Chiave: Codice: 38 Valore:ElementoMultimediale [codice=Codice: 38, titolo=Titolo: 38, durata=38, tipo=Video]Risoluzione: Risoluzione: 38
+Chiave: Codice: 39 Valore:ElementoMultimediale [codice=Codice: 39, titolo=Titolo: 39, durata=39, tipo=Video]Risoluzione: Risoluzione: 39
+Chiave: Codice: 4 Valore:ElementoMultimediale [codice=Codice: 4, titolo=Titolo: 4, durata=4, tipo=Audio]Bitrate: 4
+Chiave: Codice: 40 Valore:ElementoMultimediale [codice=Codice: 40, titolo=Titolo: 40, durata=40, tipo=Audio]Bitrate: 40
+Chiave: Codice: 41 Valore:ElementoMultimediale [codice=Codice: 41, titolo=Titolo: 41, durata=41, tipo=Audio]Bitrate: 41
+Chiave: Codice: 42 Valore:ElementoMultimediale [codice=Codice: 42, titolo=Titolo: 42, durata=42, tipo=Audio]Bitrate: 42
+Chiave: Codice: 43 Valore:ElementoMultimediale [codice=Codice: 43, titolo=Titolo: 43, durata=43, tipo=Audio]Bitrate: 43
+Chiave: Codice: 44 Valore:ElementoMultimediale [codice=Codice: 44, titolo=Titolo: 44, durata=44, tipo=Video]Risoluzione: Risoluzione: 44
+Chiave: Codice: 45 Valore:ElementoMultimediale [codice=Codice: 45, titolo=Titolo: 45, durata=45, tipo=Video]Risoluzione: Risoluzione: 45
+Chiave: Codice: 46 Valore:ElementoMultimediale [codice=Codice: 46, titolo=Titolo: 46, durata=46, tipo=Audio]Bitrate: 46
+Chiave: Codice: 47 Valore:ElementoMultimediale [codice=Codice: 47, titolo=Titolo: 47, durata=47, tipo=Video]Risoluzione: Risoluzione: 47
+Chiave: Codice: 48 Valore:ElementoMultimediale [codice=Codice: 48, titolo=Titolo: 48, durata=48, tipo=Video]Risoluzione: Risoluzione: 48
+Chiave: Codice: 49 Valore:ElementoMultimediale [codice=Codice: 49, titolo=Titolo: 49, durata=49, tipo=Audio]Bitrate: 49
+Chiave: Codice: 5 Valore:ElementoMultimediale [codice=Codice: 5, titolo=Titolo: 5, durata=5, tipo=Video]Risoluzione: Risoluzione: 5
+Chiave: Codice: 6 Valore:ElementoMultimediale [codice=Codice: 6, titolo=Titolo: 6, durata=6, tipo=Video]Risoluzione: Risoluzione: 6
+Chiave: Codice: 7 Valore:ElementoMultimediale [codice=Codice: 7, titolo=Titolo: 7, durata=7, tipo=Video]Risoluzione: Risoluzione: 7
+Chiave: Codice: 8 Valore:ElementoMultimediale [codice=Codice: 8, titolo=Titolo: 8, durata=8, tipo=Video]Risoluzione: Risoluzione: 8
+Chiave: Codice: 9 Valore:ElementoMultimediale [codice=Codice: 9, titolo=Titolo: 9, durata=9, tipo=Video]Risoluzione: Risoluzione: 9

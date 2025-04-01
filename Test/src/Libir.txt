@@ -1,0 +1,23 @@
+ProdottoMultimediale [titolo=Titolo: 0, autore=Autore: 0, annoPubblicazione=0] Numero Rivista: -1
+ProdottoMultimediale [titolo=Titolo: 1, autore=Autore: 1, annoPubblicazione=1] Durata: 1
+ProdottoMultimediale [titolo=Titolo: 2, autore=Autore: 2, annoPubblicazione=2] Numero Rivista: 0
+ProdottoMultimediale [titolo=Titolo: 3, autore=Autore: 3, annoPubblicazione=3] Formato: PDF
+ProdottoMultimediale [titolo=Autore: 4, autore=124, annoPubblicazione=4] ISBN: Titolo: 4
+ProdottoMultimediale [titolo=Titolo: 4, autore=Autore: 4, annoPubblicazione=4] Numero Rivista: 1
+ProdottoMultimediale [titolo=Titolo: 5, autore=Autore: 5, annoPubblicazione=5] Numero Rivista: 1
+ProdottoMultimediale [titolo=Titolo: 6, autore=Autore: 6, annoPubblicazione=6] Numero Rivista: 1
+ProdottoMultimediale [titolo=Titolo: 7, autore=Autore: 7, annoPubblicazione=7] Formato: ePub
+ProdottoMultimediale [titolo=Titolo: 8, autore=Autore: 8, annoPubblicazione=8] Durata: 8
+ProdottoMultimediale [titolo=Titolo: 9, autore=Autore: 9, annoPubblicazione=9] Formato: ePub
+ProdottoMultimediale [titolo=Titolo: 10, autore=Autore: 10, annoPubblicazione=10] Numero Rivista: 4
+ProdottoMultimediale [titolo=Titolo: 11, autore=Autore: 11, annoPubblicazione=11] Durata: 11
+ProdottoMultimediale [titolo=Titolo: 12, autore=Autore: 12, annoPubblicazione=12] Durata: 12
+ProdottoMultimediale [titolo=Titolo: 13, autore=Autore: 13, annoPubblicazione=13] Numero Rivista: 6
+ProdottoMultimediale [titolo=Titolo: 14, autore=Autore: 14, annoPubblicazione=14] Durata: 14
+ProdottoMultimediale [titolo=Titolo: 15, autore=Autore: 15, annoPubblicazione=15] Durata: 15
+ProdottoMultimediale [titolo=Titolo: 16, autore=Autore: 16, annoPubblicazione=16] Numero Rivista: 8
+ProdottoMultimediale [titolo=Titolo: 17, autore=Autore: 17, annoPubblicazione=17] Durata: 17
+ProdottoMultimediale [titolo=Autore: 18, autore=1218, annoPubblicazione=18] ISBN: Titolo: 18
+ProdottoMultimediale [titolo=Titolo: 18, autore=Autore: 18, annoPubblicazione=18] Numero Rivista: 9
+ProdottoMultimediale [titolo=Autore: 19, autore=1219, annoPubblicazione=19] ISBN: Titolo: 19
+ProdottoMultimediale [titolo=Titolo: 19, autore=Autore: 19, annoPubblicazione=19] Numero Rivista: 9

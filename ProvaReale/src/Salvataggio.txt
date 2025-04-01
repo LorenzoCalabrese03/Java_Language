@@ -1,0 +1,6 @@
+Prodotto [nome=Prodotto: 24, codice=Codice: 24, prezzo=34.0, annoProduzione=29/03/2025]Categoria: CONSERVA
+Prodotto [nome=Prodotto: 29, codice=Codice: 29, prezzo=39.0, annoProduzione=29/03/2025]Categoria: CONSERVA
+Prodotto [nome=Prodotto: 34, codice=Codice: 34, prezzo=44.0, annoProduzione=29/03/2025]Categoria: CONSERVA
+Prodotto [nome=Prodotto: 35, codice=Codice: 35, prezzo=45.0, annoProduzione=29/03/2025]Categoria: CONSERVA
+Prodotto [nome=Prodotto: 42, codice=Codice: 42, prezzo=52.0, annoProduzione=29/03/2025]Categoria: CONSERVA
+Prodotto [nome=Prodotto: 43, codice=Codice: 43, prezzo=53.0, annoProduzione=29/03/2025]Categoria: CONSERVA

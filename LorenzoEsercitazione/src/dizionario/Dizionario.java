@@ -41,7 +41,8 @@ public class Dizionario {
 		}
 	
 	public void trasformazioneInLista() {
-		mappa.entrySet().stream().forEach(entry -> {Object key=entry.getKey();
+		mappa.entrySet().stream().forEach(entry -> {
+		Object key=entry.getKey();
 		Object value=entry.getValue(); 
 		Coppia coppia = new Coppia(key,value);
 		listaCoppie.add(coppia);
